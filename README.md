@@ -1,5 +1,38 @@
+<style>
+.pfp-wrapper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.pfp-wrapper:not(:last-child) {
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.pfp-wrapper > img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+</style>
+
 ## Hi there 👋
-My name is Chloe (formerly Tristan). I'm a UK software developer currently working on my own projects in my free time specializing in C# backend related operations. I also enjoy and have experience using C++ for embedded systems and TypeScript & PHP for web development.  
+<table>
+<td>
+My name is Chloe (formerly Tristan). I'm a UK software developer currently working on my own projects in my free time specializing in C# backend related operations. I also enjoy and have experience using C++ for embedded systems and TypeScript & PHP for web development.   
+</td>
+<td>
+<div class="pfp-wrapper"><img src="https://avatars.githubusercontent.com/u/60425965?v=4"/></div>
+</td>
+<td>
+<div class="pfp-wrapper"><img src="https://avatars.githubusercontent.com/u/60425965?v=4"/></div>
+</td>
+</table>
 
 - 🏳️‍⚧️ Pronouns: She/Her (MTF)
 - 🏫 Graduated from the University Of Greenwich with First Class Honours studying Software Engineering BEng (Hons)
