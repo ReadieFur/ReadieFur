@@ -6,7 +6,6 @@ My name is Chloe (formerly Tristan). I'm a UK software developer currently worki
 - 💼 Currently looking for work!
 - 📫 Contact me at: [chloe@readiefur.com](mailto:chloe@readiefur.com)
 - ⚡ Fun fact: I'm a furry 🦌 and enjoy mountain biking 🚵
-- 📝 [CV](https://nextcloud.readiefur.com/index.php/s/ReadCV)
 
 Feel free to check out some of my notable projects in the pinned repositories below.  
 [BSDataPuller](https://github.com/ReadieFur/BSDataPuller), a data extraction tool, is currently my most popular project and is widely used by the BeatSaber community.  
