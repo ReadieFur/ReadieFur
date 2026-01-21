@@ -7,6 +7,7 @@ My name is Chloe (formerly Tristan). I'm a UK software developer currently worki
 - 📫 Contact me at: [dev@readiefur.com](mailto:dev@readiefur.com)
 - ⚡ Fun fact: I'm a furry 🦌 and enjoy mountain biking 🚵
 
-Feel free to check out some of my notable projects in the pinned repositories below.  
+Feel free to check out some of my notable projects in the pinned repositories below::  
 [BSDataPuller](https://github.com/ReadieFur/BSDataPuller), a data extraction tool, is currently my most popular project and is widely used by the BeatSaber community.  
-I am currently working on [OpenTCU](https://github.com/ReadieFur/OpenTCU), a reverse engineering project for the Specialized TCU!
+[OpenTCU](https://github.com/ReadieFur/OpenTCU), a reverse engineering project for the Specialized TCU!  
+*\*NEW\** [OSSM-Web-Control](https://github.com/ReadieFur/OSSM-Web-Control), a Progressive Web App for controlling the OSSM over BLE!
